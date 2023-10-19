@@ -2,3 +2,87 @@
     font-family: 'Noto Sans', sans-serif;
     font-family: 'Roboto', sans-serif;    
 }
+
+.archivo {
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.marker {
+    font-family: 'Kalam', cursive;
+}
+
+.marker2 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.marker3 {
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+.border-kont {
+    padding-left: 30rem;
+    padding-right: 30rem;
+}
+
+.new-con {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+.nonemejs {
+    text-decoration: none;
+}
+
+.spilgts {
+    filter: brightness(0.6);
+}
+
+.image-container2 {
+    width: 100%;
+    height: auto; /* Adjust the height as needed */
+    background-image: url('https://preview.redd.it/ucmwwbh5akw91.jpg?width=960&crop=smart&auto=webp&s=07680de240c4a612aab6c8c545cb153caf3a2e4c');
+    background-size: cover; /* Adjust to 'contain' if needed */
+    background-position: center;
+    filter: brightness(100%); /* Adjust the brightness value (0% to 100%) */
+    position: relative; /* Ensure positioning context for absolute positioning */
+  }
+
+  .image-container1 {
+    width: 100%;
+    height: auto;
+    background-image: url('https://fv9-4.failiem.lv/thumb_show.php?i=56bhhpzwgb&view&v=1');
+    background-size: cover;
+    background-position: center;
+    filter: brightness(100%); 
+    position: relative; 
+  }
+
+  /* .image-container1 {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-size: cover;
+    position: relative; 
+  }
+
+  .image-container1 img {
+    width: 100%;
+    height: auto;
+  } */
+
+
+.image-container3 {
+        width: 100%;
+        height: auto; /* Adjust the height as needed */
+        background-image: url('https://preview.redd.it/4g27a4yja5u91.jpg?width=4160&format=pjpg&auto=webp&s=b969e9203f843b20d986ab131266c49beb02fa1f');
+        background-size: cover; /* Adjust to 'contain' if needed */
+        background-position: center;
+        filter: brightness(100%); /* Adjust the brightness value (0% to 100%) */
+        position: relative; /* Ensure positioning context for absolute positioning */
+      }
+
+.enteksts {
+    text-shadow: #000000 1px 0 10px;
+}
+/* https://colorhunt.co/palette/222831393e46ffd369eeeeee */
