@@ -28,6 +28,7 @@
     width: 4rem;
     height: 4rem;
     border-radius: 0.75rem;
+    background-color: #FFD369;
 }
 
 .nonemejs {
@@ -40,12 +41,12 @@
 
 .image-container2 {
     width: 100%;
-    height: auto; /* Adjust the height as needed */
+    height: auto; 
     background-image: url('https://preview.redd.it/ucmwwbh5akw91.jpg?width=960&crop=smart&auto=webp&s=07680de240c4a612aab6c8c545cb153caf3a2e4c');
-    background-size: cover; /* Adjust to 'contain' if needed */
+    background-size: cover; 
     background-position: center;
-    filter: brightness(100%); /* Adjust the brightness value (0% to 100%) */
-    position: relative; /* Ensure positioning context for absolute positioning */
+    filter: brightness(100%); 
+    position: relative; 
   }
 
   .image-container1 {
@@ -74,15 +75,48 @@
 
 .image-container3 {
         width: 100%;
-        height: auto; /* Adjust the height as needed */
+        height: auto; 
         background-image: url('https://preview.redd.it/4g27a4yja5u91.jpg?width=4160&format=pjpg&auto=webp&s=b969e9203f843b20d986ab131266c49beb02fa1f');
-        background-size: cover; /* Adjust to 'contain' if needed */
+        background-size: cover; 
         background-position: center;
-        filter: brightness(100%); /* Adjust the brightness value (0% to 100%) */
-        position: relative; /* Ensure positioning context for absolute positioning */
+        filter: brightness(100%);
+        position: relative;
       }
 
 .enteksts {
     text-shadow: #000000 1px 0 10px;
+}
+
+.attelforma {
+    width:100%;
+    height: auto;
+}
+
+.dzeltena1 {
+    border-bottom: 0.3rem solid #FFD369;
+}
+
+.dzeltena-footrer {
+    border-bottom: 0.1rem solid #FFD369;
+}
+
+.dzeltena2 {
+    color: #FFD369;
+}
+
+.melna1 {
+    background-color: #222831;
+}
+
+.balta1 {
+    color: #EEEEEE;
+}
+
+.balta2 {
+    color: #c0c0c0;
+}
+
+body {
+    background-color: #393E46;
 }
 /* https://colorhunt.co/palette/222831393e46ffd369eeeeee */
